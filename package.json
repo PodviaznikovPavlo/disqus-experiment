@@ -1,0 +1,15 @@
+{
+  "name": "disqus-experiment",
+  "version": "0.0.0",
+  "description": "disqus-experiment\r =================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PavelPodviaznikov/disqus-experiment.git"
+  },
+  "author": "Pavel Podviaznikov",
+  "license": "MIT"
+}
